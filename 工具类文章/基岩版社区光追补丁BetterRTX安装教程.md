@@ -21,4 +21,4 @@ Better RTX 的安装过程中需要运行官方的 PowerShell 安装教程，而
 
 ------
 本文贡献者：[壹粥粥粥](https://space.bilibili.com/474001515)（编写、审查）
-本文仓库：
+本文仓库：https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%B7%A5%E5%85%B7%E7%B1%BB%E6%96%87%E7%AB%A0/%E5%9F%BA%E5%B2%A9%E7%89%88%E7%A4%BE%E5%8C%BA%E5%85%89%E8%BF%BD%E8%A1%A5%E4%B8%81BetterRTX%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md
