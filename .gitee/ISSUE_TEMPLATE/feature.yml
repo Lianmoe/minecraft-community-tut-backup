@@ -1,5 +1,5 @@
 name: 内容请求
-description: 对本项目提出一个内容请求
+description: 对本项目提出一个内容请求。
 title: "[内容请求]: "
 labels: ["enhancement"]
 body:
@@ -40,7 +40,7 @@ body:
       description: 在此处添加有关内容请求的任何其他上下文或截图。
     validations:
       required: false
-      
+
   - type: checkboxes
     attributes:
       label: 意向参与贡献

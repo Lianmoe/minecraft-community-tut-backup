@@ -1,5 +1,5 @@
 name: Bug 反馈
-description: 当你在代码中发现了一个 Bug，导致应用崩溃或抛出异常，或者有一个组件存在问题，或者某些地方看起来不对劲。
+description: 文章中措辞不当、病句、描述含糊不清、表达无逻辑、可读性及格式等问题。
 title: "[Bug]: "
 labels: ["bug"]
 body:
