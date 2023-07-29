@@ -10,7 +10,7 @@ body:
       label: 感谢对项目的支持与关注。在提出问题之前，请确保你已知晓：
       options:
         - label: Bug Issue 不能帮你解决对于教程内容的实践过程中出现的问题。
-          required:true
+          required: true
         - label: Bug Issue 只接受文章内容出现的相关问题（如：表述、措辞、文章失效）。
           required: true
 
