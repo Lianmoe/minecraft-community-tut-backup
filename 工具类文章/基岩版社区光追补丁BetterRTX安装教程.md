@@ -4,11 +4,12 @@
 
 ------
 
-> 整个安装过程就不赘述了，有科技手段的可以自己去 Discord 查看安装教程，没有科技手段的连下载都是个问题，所以 Better RTX 的安装教程会比较麻烦，就暂时不做了，如果需要，这是官方的 Discord 链接：https://discord.gg/minecraft-rtx-691547840463241267
+> 官方的 Discord 链接：https://discord.gg/minecraft-rtx-691547840463241267
+> 安装程序下载直链：https://ghproxy.com/github.com/ABUCKY0/BetterRTX-Installer/releases/download/v1.0.0/BetterRTX_Installer.ps1
 
 
 # 前言  
-Better RTX 的安装过程中需要运行官方的 PowerShell 安装教程，而这个过程中可能脚本窗口直接闪退，实际上是有报错的，只是一闪而过：![](/betterrtx/info.png)  
+Better RTX 的安装过程中需要运行官方的 PowerShell 安装程序，而这个过程中可能脚本窗口直接闪退，实际上是有报错的，只是一闪而过：![](/betterrtx/info.png)  
 
 那么问题就比较明显了，是系统禁止运行 Powershell 脚本，而具体的解决方案就是调整其执行策略为 RemoteSigned  
 
