@@ -4,6 +4,8 @@
 
 本项目目前使用 金山文章 进行信息交流协作：https://kdocs.cn/l/coiA5aK3MGeW
 
+项目贡献指南：https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6/%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md
+
 ---
 
 目前工作方向：
