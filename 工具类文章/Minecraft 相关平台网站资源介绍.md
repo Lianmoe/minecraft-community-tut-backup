@@ -4,7 +4,7 @@
 ## 📣**论坛类**
 - 论坛类平台主要是用于玩家交流、信息搬运的平台，例如问答、资源搬运、教程、技术交流等，较为综合性、社区性
 
-#### **Minecraft吧**
+#### **Minecraft 吧**
 > 相关链接：https://tieba.baidu.com/f?kw=minecraft
 
 依托于百度贴吧的国内 Minecraft 贴吧，老牌，但慢慢在被淘汰了
@@ -19,12 +19,12 @@ https://beta.mcbbs.net/
 #### **MineBBS**
 > 相关链接：https://www.minebbs.com/
 
-国内基岩版论坛，创立于2018年，平台美观，包含Minecraft游戏资源、服务端、面板、编程、建站、游戏下载等多方面内容
+国内基岩版论坛，创立于 2018 年，平台美观，包含 Minecraft 游戏资源、服务端、面板、编程、建站、游戏下载等多方面内容
 
 #### **苦力怕论坛**
 > 相关链接：https://klpbbs.com/
 
-国内基岩版论坛，创立于2020年，使用人数较多，与 MineBBS 定位类似
+国内基岩版论坛，创立于 2020 年，使用人数较多，与 MineBBS 定位类似
 
 #### **Minecraft 教育版论坛**
 > 相关链接：https://www.mceebbs.com/
@@ -44,10 +44,10 @@ https://beta.mcbbs.net/
 https://minecraft.fandom.com/wiki/Minecraft_Wiki
 https://wiki.biligame.com/mc/Minecraft_Wiki
 
-Minecraft 的 Fandom wiki 是世界上最大的 Minecraft **原版**维基，也就是所有关于 Minecraft IP 游戏（包括Java版、基岩版、地下城等）的百科大全网站，不包含社区内容（例如玩家们做的资源包、模组等）。b站的镜像会访问的更快
+Minecraft 的 Fandom wiki 是世界上最大的 Minecraft **原版**维基，也就是所有关于 Minecraft IP 游戏（包括 Java 版、基岩版、地下城等）的百科大全网站，不包含社区内容（例如玩家们做的资源包、模组等）。b 站的镜像会访问的更快
 
 
-#### **我的世界玩家社区WIKI**
+#### **我的世界玩家社区 WIKI**
 > 相关链接：https://wiki.biligame.com/mcplayer
 
 国内最大的社区维基，与 Minecraft wiki 定位互补，专注于社区内容（例如模组、汉化、服务器、资源包等等各个方面），是笔者个人认为国内最值得期待的新兴维基
@@ -65,8 +65,8 @@ Minecraft 的 Fandom wiki 是世界上最大的 Minecraft **原版**维基，也
 
 ## 🔧**模组类**
 - 社区玩家制作的游戏扩展内容  
-建议：先在MC百科搜索，然后再跳转到源网址下载。MC百科搜不到再到 Curseforge 和 Modrinth 搜索，因为 MC百科 作为一个搬运站，其包含更多社区信息，例如BUG反馈、社区翻译、游玩评测等
-#### **MC百科**
+建议：先在 MC 百科搜索，然后再跳转到源网址下载。MC 百科搜不到再到 Curseforge 和 Modrinth 搜索，因为 MC 百科 作为一个搬运站，其包含更多社区信息，例如 BUG 反馈、社区翻译、游玩评测等
+#### **MC 百科**
 > 相关链接：  
 https://www.mcmod.cn/modlist.html  
 https://www.mcmod.cn/
@@ -90,9 +90,9 @@ https://modrinth.com/mods
 
 ## 🛠️**整合包**
 - 整合社区作品（模组、材质、光影等等）制作出的独特的游戏体验。  
-建议：先在MC百科搜索，然后再跳转到源网址下载。MC百科搜不到再到 Modpack Index, Curseforge 或 Modrinth 搜索，因为 MC百科 作为一个搬运站，其包含更多社区信息，例如BUG反馈、社区翻译、游玩评测等
+建议：先在 MC 百科搜索，然后再跳转到源网址下载。MC 百科搜不到再到 Modpack Index, Curseforge 或 Modrinth 搜索，因为 MC 百科 作为一个搬运站，其包含更多社区信息，例如 BUG 反馈、社区翻译、游玩评测等
 
-#### **MC百科**
+#### **MC 百科**
 > 相关链接：https://www.mcmod.cn/modpack.html
 
 最大的中文整合包收录平台
@@ -102,7 +102,7 @@ https://modrinth.com/mods
 https://www.curseforge.com/minecraft/modpacks  
 https://beta.curseforge.com/minecraft/search?page=1&class=modpacks&sortType=1&pageSize=20
 
-目前仍是最主流的整合包发布平台，beta版访问更快
+目前仍是最主流的整合包发布平台，beta 版访问更快
 
 #### **Modrinth - modpacks**
 > 相关链接：https://modrinth.com/modpacks
@@ -118,7 +118,7 @@ https://beta.curseforge.com/minecraft/search?page=1&class=modpacks&sortType=1&pa
 - 社区制作的资源包  
 建议：如果只是浏览搜寻，建议使用 Mcbbs 的纹理包版块、Modrinth 和 HyperCol 团队的视频；如果有目标了，建议在 Curseforge 版块搜寻
 
-#### **MCBBS纹理包版块**
+#### **MCBBS 纹理包版块**
 > 相关链接：https://www.mcbbs.net/forum-texture-1.html
 
 国内目前最大的资源包搬运、发布平台
@@ -180,7 +180,7 @@ https://www.fsoufsou.com/
 
 ---
 写在后面：  
-这个文章最早是20年写的，当时写文章没什么目的，想到什么写什么，后来有了 MCNAV 导航站，这个文章的意义似乎就需要重新定位了。目前来看，这篇文章的目标受众是广大玩家，所以提到的平台都是最基础、也同样是最值得推广的网站，在这其中也会包含主观的评价和建议等，而不是百科，这样或许更满足广大玩家的需求
+这个文章最早是 20 年写的，当时写文章没什么目的，想到什么写什么，后来有了 MCNAV 导航站，这个文章的意义似乎就需要重新定位了。目前来看，这篇文章的目标受众是广大玩家，所以提到的平台都是最基础、也同样是最值得推广的网站，在这其中也会包含主观的评价和建议等，而不是百科，这样或许更满足广大玩家的需求
 
 闲唠：  
 其实 Minecraft wiki 并不是官方 Fandom wiki，当然了，这只是面上的差别；  
@@ -189,7 +189,7 @@ https://www.fsoufsou.com/
 
 ---
 更新日志
-> 2020-04-20 更新了排版（还没搞完），看起来更舒服了(大概。 新增了基岩版资源和服务器核心资源。不知道怎么排版好看啊啊啊啊啊啊啊啊啊
+> 2020-04-20 更新了排版（还没搞完），看起来更舒服了 (大概。新增了基岩版资源和服务器核心资源。不知道怎么排版好看啊啊啊啊啊啊啊啊啊
 >
 > 2023-02-09 时隔三年终于更新了，全部进行了重置，部分未完成，之前的文章进行了归档，现在应该比之前的质量高了很多
 

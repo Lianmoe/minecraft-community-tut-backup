@@ -15,8 +15,8 @@ Better RTX 的安装过程中需要运行官方的 PowerShell 安装教程，而
 # 设置执行策略  
 1、使用管理员模式打开 PowerShell  
 ![](/betterrtx/openinadmin.png)  
-2、输入 get-executionpolicy ，回车，以检查目前的执行策略，这时应该显示的是 Restricted  
-3、接着输入 set-executionpolicy remotesigned，回车，然后输入Y，回车，这样就设置完成了
+2、输入 get-executionpolicy，回车，以检查目前的执行策略，这时应该显示的是 Restricted  
+3、接着输入 set-executionpolicy remotesigned，回车，然后输入 Y，回车，这样就设置完成了
 ![](/betterrtx/set.png)
 
 ------
