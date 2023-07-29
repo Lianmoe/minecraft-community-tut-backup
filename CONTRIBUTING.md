@@ -100,9 +100,13 @@ Gitee 平台的使用和 Markdown 语法 [^Markdown] 并不复杂，对于并不
 进行贡献后，教程编辑将会对贡献内容进行审核，这阶段可能会与原贡献者和其他贡献者一同讨论，并最终应用改进后的贡献。
 根据贡献流程的不同，编辑和贡献者的交流探讨将在``` Gitee PR（方法1）``` 或者 ```电子邮件（方法2）``` 中进行。
 对于想要长期参与项目的贡献者和经验较少的新手，我们推荐使用 [QQ 群][QQ] 和 [在线语音频道](https://mornin.fm/community-tuts) [^kdocs]这样信息传达效率更高的交流方式。
+
 [^kdocs]:见 [金山协作平台](https://www.kdocs.cn/l/coiA5aK3MGeW)。
+
 ## 仓库体系
 所有「Minecraft 社区教程」文章皆储存于 https://gitee.com/community-tut/minecraft-community-tut 仓库。教程文章使用 Markdown 语法，各个教程皆以单个 Markdown 文件为主体，并根据情况进行多文件夹分类管理。文章中所引用的图片请务必放在 Markdown 文件所在目录的同名子目录[^img]下，并使用相对路径进行调用。视频等其他资源请使用外链。
+
+[^img]: 如教程文件名称为 ```a.md``` ，请将其中涉及的图片文件放置在 ```a.md```  ```a``` 的文件夹。
 
 ### Commit 规范
 提交使用的 Commit 信息请使用**清晰简洁**的**标准完整语句**表达所修改的内容。
@@ -137,7 +141,7 @@ Gitee 平台的使用和 Markdown 语法 [^Markdown] 并不复杂，对于并不
 标题:  新增 - XXX XXX（教程名称）
 说明: 
     - 本人确认此 PR 中内容均为原创。
-    - 本人已详细阅读 [项目贡献指南](/项目文件/项目贡献指南.md)，并确认本 PR 内容与规范一致。
+    - 本人已详细阅读 [项目贡献指南](CONTRIBUTING.md)，并确认本 PR 内容与规范一致。
     - 作者: XXX（可选，用于署名，多作者请都写上）
     - 摘要: 此篇教程详细叙述了XXX。 （内容概述）
     - 备注: （可选，其他你认为我们需要知晓的内容）
@@ -148,13 +152,12 @@ Gitee 平台的使用和 Markdown 语法 [^Markdown] 并不复杂，对于并不
 标题:  修改 - XXX XXX（教程名称）
 说明: 
     - 本人确认此 PR 中修改内容均正确。
-    - 本人已详细阅读 [项目贡献指南](/项目文件/项目贡献指南.md)，并确认本 PR 内容与规范一致。
+    - 本人已详细阅读 [项目贡献指南](CONTRIBUTING.md)，并确认本 PR 内容与规范一致。
     - 修改者: XXX（可选，用于署名，多修改者请都写上）
     - 摘要: 此次修改修改了XXXX。 （内容概述）
     - 备注: （可选，其他你认为我们需要知晓的内容）
 ```
 **⚠️注意：如果已有相关 Issue 请务必在 PR 界面中选择**
 
-[^img]: 如教程文件名称为 ```a.md``` ，请将其中涉及的图片文件放置在 ```a.md```  ```a``` 的文件夹。
 
 [QQ]: https://qm.qq.com/cgi-bin/qm/qr?authKey=aifKEcRSapH3pgCIIQ58qJmRs0QtiiNkeiMK3eldabfI0TJGYKje5YMgP%2FVjTFRY&k=YdLYzpkxXUwwlie6HJ1GjcnC0BgWN3es&noverify=0&group_code=749988690
