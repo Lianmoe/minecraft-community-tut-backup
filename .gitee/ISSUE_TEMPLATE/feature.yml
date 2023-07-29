@@ -1,0 +1,49 @@
+name: 内容请求
+description: 对本项目提出一个内容请求
+title: "[内容请求]: "
+labels: ["enhancement"]
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        感谢提出内容请求，我们将仔细考虑！
+
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: 你的内容请求是否和某个问题相关？
+      description: 清晰并简洁地描述问题是什么，例如，当我...时，我总是感到困扰。
+    validations:
+      required: false
+      
+  - type: textarea
+    id: desired-solution
+    attributes:
+      label: 你希望看到什么内容？
+      description: 清晰并简洁地描述你希望发生的事情。
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 你考虑过哪些替代方案？
+      description: 清晰并简洁地描述你考虑过的任何替代解决方案或功能。
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 你有其他上下文或截图吗？
+      description: 在此处添加有关内容请求的任何其他上下文或截图。
+    validations:
+      required: false
+      
+  - type: checkboxes
+    attributes:
+      label: 意向参与贡献
+      options:
+        - label: 我有意向参与具体内容的创作并将内容贡献到社区。
+          required: false
