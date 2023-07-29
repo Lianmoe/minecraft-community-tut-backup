@@ -1,21 +1,34 @@
+# Minecraft 社区教程
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 由社区建设、维护的开源、开放贡献 Minecraft 教程
 
-本教程使用 CC BY-NC-SA 4.0 共享协议开源、开放贡献
+本项目使用 [金山文档][kdocs] 进行信息交流协作。
 
-本项目目前使用 金山文章 进行信息交流协作：https://kdocs.cn/l/coiA5aK3MGeW
-
-项目贡献指南：https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6/%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md
-
----
+## 贡献
+参见 [项目贡献指南](/CONTRIBUTING.md)。
 
 目前工作方向：
 - **对知乎专栏上的旧教程文章进行简单重写**
 
 ---
+## 关于
 
-项目协作仓库：https://gitee.com/community-tut/minecraft-community-tut
+项目协作仓库：[Gitee](https://gitee.com/community-tut/minecraft-community-tut)
 
 教程文章发布地址：
-- 知乎专栏：https://www.zhihu.com/column/c_1234517495362920448
-- bilibili 文集：https://www.bilibili.com/read/readlist/rl710175
+- [知乎专栏](https://www.zhihu.com/column/c_1234517495362920448)
+- [Bilibili 文集](https://www.bilibili.com/read/readlist/rl710175)
 
+---
+
+## 声明
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" ><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+
+本教程使用 [CC BY-NC-SA 4.0](/LICENSE) 共享协议开源、开放贡献
+
+您在其他地方使用本项目中内容时，应当遵循此协议。
+
+“Minecraft”是 Mojang Synergies AB 的商标，**本项目与 Mojang AB 以及 Microsoft Corporation 没有从属关系。**
+
+[kdocs]: https://kdocs.cn/l/coiA5aK3MGeW
