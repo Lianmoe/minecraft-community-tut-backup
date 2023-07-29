@@ -9,8 +9,9 @@ body:
     attributes:
       label: 感谢对项目的支持与关注。在提出问题之前，请确保你已知晓：
       options:
-        - Bug Issue 不能帮你解决对于教程内容的实践过程中出现的问题；
-        - Bug Issue 只接受文章内容出现的相关问题（如：表述、措辞、文章失效）。
+        - lable: Bug Issue 不能帮你解决对于教程内容的实践过程中出现的问题；
+        - label: Bug Issue 只接受文章内容出现的相关问题（如：表述、措辞、文章失效）。
+          required: true
 
   - type: checkboxes
     attributes:
