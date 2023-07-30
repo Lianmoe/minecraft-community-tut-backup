@@ -1,6 +1,6 @@
 由社区建设、维护的开源、开放贡献 Minecraft 教程
 
-本教程使用 CC BY-NC-SA 4.0 共享协议开源、开放贡献
+本教程使用 [CC BY-NC-SA 4.0](./LICENSE) 共享协议开源、开放贡献
 
 本项目目前使用 [金山文章](https://kdocs.cn/l/coiA5aK3MGeW) 进行信息交流协作
 
