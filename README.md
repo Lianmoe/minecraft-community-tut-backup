@@ -33,4 +33,5 @@
 
 “Minecraft”是 Mojang Synergies AB 的商标，**本项目与 Mojang AB 以及 Microsoft Corporation 没有从属关系。**
 
+
 [kdocs]: https://kdocs.cn/l/coiA5aK3MGeW
