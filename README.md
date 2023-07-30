@@ -1,5 +1,5 @@
 # Minecraft 社区教程
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![star](https://gitee.com/community-tut/minecraft-community-tut/badge/star.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/stargazers)[![fork](https://gitee.com/community-tut/minecraft-community-tut/badge/fork.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
 由社区建设、维护的开源、开放贡献 Minecraft 教程。
 
