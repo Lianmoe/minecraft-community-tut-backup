@@ -29,6 +29,8 @@
 ### 法律声明
 本项目使用 [CC BY-NC-SA 4.0](/LICENSE) 协议进行开源共享。
 
+您在参与内容贡献之前需要仔细阅读并签署我们的 [社区个人贡献者许可协议](https://gitee.com/organizations/community-tut/cla/community-cla)。
+
 您**参与贡献的行为**将被视作您对**您本人同意在无任何附加条件的情况下使用 [CC BY-NC-SA 4.0](/LICENSE) 协议将您所贡献的内容进行共享**所作出的承诺。
 
 “Minecraft”是 Mojang Synergies AB 的商标，**本项目与 Mojang AB 以及 Microsoft Corporation 没有从属关系。**
