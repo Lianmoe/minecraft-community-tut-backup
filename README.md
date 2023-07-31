@@ -11,7 +11,7 @@
 参见 [项目贡献指南](/CONTRIBUTING.md)。
 
 目前工作方向：
-- [ ] **对知乎专栏上的旧教程文章进行简单重写**
+- [ ] [**对知乎专栏上的旧教程文章进行简单重写**](https://kdocs.cn/l/couJjQX7XAtJ)
 
 ---
 ## 关于
@@ -20,7 +20,7 @@
 
 教程文章发布地址：
 - [知乎专栏](https://www.zhihu.com/column/c_1234517495362920448)
-- [Bilibili 文集](https://www.bilibili.com/read/readlist/rl710175)
+- [bilibili 文集](https://www.bilibili.com/read/readlist/rl710175)
 
 ---
 
