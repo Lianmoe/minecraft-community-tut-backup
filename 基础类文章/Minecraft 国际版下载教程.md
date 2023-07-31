@@ -56,7 +56,7 @@ HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
 
 ---
 
-本文开放共享、开放贡献仓库地址：https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B.md
+本文开放共享、开放贡献仓库地址：https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B.md  
 贡献者：壹粥粥粥（文章撰写）、刘（审查）
 
 ![](../项目文件/套图/社区教程套图/卡片%20甲%20知乎b站%20点赞.png)
