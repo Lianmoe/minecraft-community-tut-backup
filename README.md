@@ -1,7 +1,7 @@
 # Minecraft 社区教程
 [![star](https://gitee.com/community-tut/minecraft-community-tut/badge/star.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/stargazers)[![fork](https://gitee.com/community-tut/minecraft-community-tut/badge/fork.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
-由社区建设、维护的开源、开放贡献 Minecraft 教程。
+由社区建设、维护的开放共享、开放贡献 Minecraft 教程系列项目
 
 本项目使用 [金山文档][kdocs] 进行信息交流协作。
 
