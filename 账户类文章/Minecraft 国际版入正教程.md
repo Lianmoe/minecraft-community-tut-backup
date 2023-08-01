@@ -41,7 +41,7 @@
   
 ### 步骤
 #### i. 登录你的 Microsoft 账号
-访问 [此网址][ms-login]，按流程登录你要购买正版的 MS[^MS] 账号，一定确认好对应账号。
+访问 [微软登录页面][ms-login]，按流程登录你要购买正版的微软账号，一定确认好对应账号。
 
 #### ii. 访问 Minecraft 官网
 访问 [MC 国际官网][mc]，点击中间登录
@@ -67,7 +67,12 @@
 
 当然，如果你有「外币信用卡」，那么这里也可以选择其他区域，找个汇率换算后价格低的区域购买。这里就不展开说了。
 
+本文开放共享、开放贡献仓库地址：[Gitee][Gitee]。
+贡献者：[ZacheryLiu][ZacheryLiu]（文章撰写）、[泓华][honghua]（审查）。
 
+![](/项目文件/套图/社区教程套图/卡片%20甲%20知乎b站%20点赞.png)
+![](/项目文件/套图/社区教程套图/卡片%20乙%20提问交流.png)
+![](/项目文件/套图/社区教程套图/卡片%20甲%20开放共享贡献.png)
 
 
 
@@ -80,6 +85,8 @@
 
 
 [ms-login]: https://login.microsoftonline.com/
-[^MS]:即  Microsoft / 微软，后文全部用缩写指代了
-
 [mc]: https://www.minecraft.net/zh-hans/store/checkout/minecraft-java-bedrock-edition-pc?region=hk
+
+[ZacheryLiu]: https://gitee.com/zacheryliu
+[honghua]: https://gitee.com/liuxi233
+[Gitee]: https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E8%B4%A6%E6%88%B7%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E5%85%A5%E6%AD%A3%E6%95%99%E7%A8%8B.md
