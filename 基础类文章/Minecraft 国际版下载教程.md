@@ -37,7 +37,7 @@ HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
 
 **然后进行基本设置**：启动器会自动检测电脑上安装的 Java，并在启动不同版本时自动调用，因此不需要手动设置。仅需开启版本隔离，并选择隔离所有版本，这可以隔离不同版本之间的存档、资源包、模组等等。
 
-![1](/Minecraft%20国际版下载教程/启动器设置.png)
+![](./Minecraft%20国际版下载教程/启动器设置.png)
 
 ## 四、下载游戏
 > 
@@ -52,7 +52,7 @@ HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
 
 游戏下载安装完成后，便可以直接启动了
 
-![](/Minecraft%20国际版下载教程/游戏下载.png)
+![](./Minecraft%20国际版下载教程/游戏下载.png)
 
 ---
 
