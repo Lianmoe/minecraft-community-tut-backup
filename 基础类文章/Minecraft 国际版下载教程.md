@@ -17,10 +17,10 @@ Minecraft 国际版下载教程
 
 LibericaJDK 官网：https://bell-sw.com/pages/downloads/  
 
-![1](/Minecraft%20国际版下载教程/Liberica下载.png)
+![1](./Minecraft%20国际版下载教程/Liberica下载.png)
 
 **下载并安装 JDK**：由于不同版本所需 Java 版本也不同，我们建议玩家将 JDK 8、JDK11、JDK17 都下载下来，分别安装在合适的位置  
-![](/Minecraft%20国际版下载教程/java分文件夹安放.png)
+![](./Minecraft%20国际版下载教程/java分文件夹安放.png)
 
 ## 二、选择一个启动器并下载
 > 十多年来，有数十个社区启动器诞生，目前市面上也有许多主流社区启动器可以选择。本文仅推荐 HMCL 和 PCL2 启动器。两个启动器皆能满足基本需求，也是目前国内最主流的启动器。由于两个启动器功能相近，本篇教程将使用 PCL2 启动器进行讲解
