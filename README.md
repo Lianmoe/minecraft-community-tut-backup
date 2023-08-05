@@ -1,7 +1,7 @@
 # Minecraft 社区教程
 [![star](https://gitee.com/community-tut/minecraft-community-tut/badge/star.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/stargazers)[![fork](https://gitee.com/community-tut/minecraft-community-tut/badge/fork.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
-由社区建设、维护的开放共享、开放贡献 Minecraft 教程系列项目
+由社区共建并维护的开放共享的、开放贡献的 Minecraft 教程系列项目
 
 本项目使用 [金山文档][kdocs] 进行信息交流协作。
 
@@ -25,9 +25,8 @@
 ---
 
 ## 声明
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" ><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:24px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
 
-本教程使用 [CC BY-NC-SA 4.0](/LICENSE) 共享协议开源、开放贡献。
+本教程使用 [CC BY-NC-SA 4.0](/LICENSE) 协议进行许可。
 
 您在其他地方使用本项目中内容时，应当遵循此协议。
 
