@@ -24,18 +24,20 @@ JDK 的各个发行版都会提供安装包（.msi 格式文件）或仅提供�
 
 ### Java 不同版本号、不同发行版的差别
 
-- Java 的版本号： 不同 Minecraft 版本所需要的 Java 版本不同。1.7 以下使用 Java7，1.8 ~ 1.16.5 使用 Java8，1.17 ~ 1.19 使用 Java17，其中 1.17 亦可选择 Java16（推荐使用Java17）
+- Java 的版本号： 不同 Minecraft 版本所需要的 Java 版本不同。每一个 Minecraft 版本都有最低的 Java 版本要求，虽然越新的 Java 版本的性能会更好，但是也可能导致兼容问题。经过权衡，我们推荐：1.7.10 及以下使用 Java7，1.8 ~ 1.16.5 使用 Java8，1.17 ~ 1.20.1 使用 Java17。
 - Java 的发行版：各个发行版主要是功能和性能上的区别，根据 Minecraft 的实际需求，本文推荐使用 LibericaJDK 的 Full Version，且下文将使用 LibericaJDK Full Version 进行讨论
 
 <!-- 旧描述，有错误，描述混乱 -->
 <!-- Java 有不同发行版，总的来说分为 OracleJDK 和 OpenJDK 两个类。 这里不知道怎么描述好了，包括OpenJDK和Oracle的区别以及JDK是什么 。OpenJDK 主要优势在于 免费、性能好，然而在选择 OpenJDK 时，大多数 OpenJDK 并不包含 JavaFX 这一个组件，其是一个较为过时的用于绘制用户界面的组件 不确定组件这个称呼合不合适 ，但仍有一部分应用在使用（例如 HMCL 启动器），因此我们推荐使用 LibericaJDK 的 Full version（带 JavaFX） -->
 
-LibericaJDK 官网：https://bell-sw.com/pages/downloads/  
 
-![1](./Minecraft%20国际版下载教程/Liberica下载.png)
+### 🔆推荐流程
+> **从 LibericaJDK 官网分别下载 Full Version 的 JDK7、JDK8、JDK11、JDK17 的安装包，在提前准备好安装的文件夹之后，双击安装包进行安装**
 
-**下载并安装 JDK**：由于不同版本所需 Java 版本也不同，我们建议玩家将 JDK 8、JDK11、JDK17 都下载下来，分别安装在合适的位置  
-![](./Minecraft%20国际版下载教程/java分文件夹安放.png)
+> ⚠注意：安装时会选择路径，请放在一个合适的地方长期存储。且由于安装了四个版本，建议提前分好文件夹以分开存放
+LibericaJDK 官网：https://bell-sw.com/pages/downloads/
+![](./Minecraft%20国际版下载教程/java分文件夹安放.png)  
+![1](./Minecraft%20国际版下载教程/Liberica下载.png）
 
 ## 二、选择一个启动器并下载
 > 十多年来，有数十个社区启动器诞生，目前市面上也有许多主流社区启动器可以选择。本文仅推荐 HMCL 和 PCL2 启动器。两个启动器皆能满足基本需求，也是目前国内最主流的启动器。由于两个启动器功能相近，本篇教程将使用 PCL2 启动器进行讲解
