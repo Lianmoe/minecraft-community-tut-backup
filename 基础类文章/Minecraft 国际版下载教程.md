@@ -51,8 +51,7 @@ JRE 的各个发行版都会提供安装包（.msi 格式文件）或仅提供�
 
 >#### 苹果MacOS 用户流程
 >**1. 在 **「个人文件夹」** 下创建一个文件夹，并在内创建三个文件夹，分别命名为 ``Liberica8`` 、``Liberica11`` 和 ``Liberica17``；  
->2. 判断 Mac 的架构，参见[在 Mac 上查看“关于本机”设置](https://support.apple.com/zh-cn/guide/mac-help/mchlea7173f3/13.0/mac/13.0)，芯片为 ``Intel`` 即为「X86 架构」；芯片为 ``Apple 芯片`` 即为「ARM 架构」；  
->3. 进入 Liberica Java 加速下载页（[https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md](https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md)），根据你的电脑芯片架构进行下载；   
+>2. 进入 Liberica Java 加速下载页（[https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md](https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md)），根据下载页中的提示判断你的电脑的芯片类型，并根据你的电脑芯片架构进行下载；   
 >4. 分别打开各个安装包，并分别安装到第一步中所创建的三个文件夹中。**
 
 > ⚠注意：安装时会选择路径，请一定要放在一个合适的地方长期存储。且由于安装了三个版本，一定要提前分好文件夹以分开存放  
@@ -75,15 +74,15 @@ HMCL 启动器官网：[https://hmcl.huangyuhui.net/download/](https://hmcl.huan
 官方启动器的游戏文件位于C盘，但是社区启动器（包括 HMCL 和 PCL2）可以通过启动器内设置来选择启动器程序本体所在的位置存储游戏相关的文件（例如游戏本体、模组、存档、材质等）。因此，可以选择一个方便管理的文件夹放入启动器，这样这个文件夹内就包含了 Minecraft 的所有游戏文件了，这也正是我们最推荐的游戏文件管理方法
 ### 🔆推荐流程
 >#### PCL2 流程（Windows 用户优先选择）
->**1. 在一个 **「非C盘的磁盘」** 下创建一个文件夹；
->2. 从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包；
+>**1. 在一个 **「非C盘的磁盘」** 下创建一个文件夹；  
+>2. 从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包；  
 >3. 将下载下来的压缩包内的启动器（Plain Craft Launcher）解压到到先前所选好的文件夹中即可。**
 
 >#### HMCL 流程（苹果用户仅能选择该流程）
->**1. 在 **「个人文件夹」** 中创建一个文件夹；
+>**1. 在 **「个人文件夹」** 中创建一个文件夹；  
 >2. 下载HMCL:  
 > Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe) 进行下载  
-> 苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar) 进行下载；
+> 苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar) 进行下载；  
 >3. 将 HMCL 启动器复制到第一步中所创建的文件夹中。**
 
 > ⚠注意：PCL2 从爱发电下载下来之后会是一个压缩包，解压后才是启动器的程序本体了  
