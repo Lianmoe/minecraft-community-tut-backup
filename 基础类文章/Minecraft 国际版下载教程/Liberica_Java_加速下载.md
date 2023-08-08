@@ -13,4 +13,4 @@
 | MacOS（Apple 芯片） | [点击下载]() | [点击下载]() | [点击下载]() |
 ---
 ⚠注意：点击 「点击下载」 按钮后浏览器会自动下载安装包，下载内容会保存在下载路径中  
-⚠注意：Mac 分为 「Intel 芯片」和 「Apple 芯片」，参见 [在 Mac 上查看“关于本机”设置](https://support.apple.com/zh-cn/guide/mac-help/mchlea7173f3/13.0/mac/13.0) 中的 「芯片」 一栏进行区分。
+⚠注意：Mac 分为 「Intel 芯片」和 「Apple 芯片」，如果您不知道您的苹果电脑是什么芯片，请参见 [在 Mac 上查看“关于本机”设置](https://support.apple.com/zh-cn/guide/mac-help/mchlea7173f3/13.0/mac/13.0) 中的 「芯片」 一栏进行区分。
