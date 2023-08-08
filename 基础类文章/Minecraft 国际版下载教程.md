@@ -44,17 +44,16 @@ JRE 的各个发行版都会提供安装包（.msi 格式文件）或仅提供�
 
 
 ### 🔆推荐流程
-#### Windows 用户流程
-1. 在一个 **「非C盘的磁盘」** 下创建一个文件夹，并在内创建三个文件夹，分别命名为 ``Liberica8`` 、``Liberica11`` 和 ``Liberica17``； 
-2. 进入 Liberica Java 加速下载页（[]()），根据你的操作系统进行下载；  
-3. 分别打开各个安装包，并分别安装到第一步中所创建的三个文件夹中。
+> #### Windows 用户流程
+>**1. 在一个 「非C盘的磁盘」 下创建一个文件夹，并在内创建三个文件夹，分别命名为 ``Liberica8`` 、``Liberica11`` 和 ``Liberica17``；  
+>2. 进入 Liberica Java 加速下载页（[https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md](https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md)），根据你的操作系统进行下载；   
+>3. 分别打开各个安装包（msi 文件），并分别安装到第一步中所创建的三个文件夹中。**
 
-#### 苹果MacOS 用户流程
-1. 在 **「个人文件夹」** 下创建一个文件夹，并在内创建三个文件夹，分别命名为 ``Liberica8`` 、``Liberica11`` 和 ``Liberica17``； 
-2. 判断 Mac 的架构，参见[在 Mac 上查看“关于本机”设置](https://support.apple.com/zh-cn/guide/mac-help/mchlea7173f3/13.0/mac/13.0)，芯片为 ``Intel`` 即为「X86 架构」；芯片为 ``Apple 芯片`` 即为「ARM 架构」；
-3. 进入 Liberica Java 加速下载页（[]()），根据你的电脑芯片架构进行下载； 
-4. 分别打开各个安装包，并分别安装到第一步中所创建的三个文件夹中。
-> 还是不会？参见[在 Mac 上运行 Windows](https://support.apple.com/zh-cn/guide/mac-help/mh11850/13.0/mac/13.0)。
+>#### 苹果MacOS 用户流程
+>**1. 在 **「个人文件夹」** 下创建一个文件夹，并在内创建三个文件夹，分别命名为 ``Liberica8`` 、``Liberica11`` 和 ``Liberica17``；  
+>2. 判断 Mac 的架构，参见[在 Mac 上查看“关于本机”设置](https://support.apple.com/zh-cn/guide/mac-help/mchlea7173f3/13.0/mac/13.0)，芯片为 ``Intel`` 即为「X86 架构」；芯片为 ``Apple 芯片`` 即为「ARM 架构」；  
+>3. 进入 Liberica Java 加速下载页（[https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md](https://gitee.com/community-tut/minecraft-community-tut/blob/master/%E5%9F%BA%E7%A1%80%E7%B1%BB%E6%96%87%E7%AB%A0/Minecraft%20%E5%9B%BD%E9%99%85%E7%89%88%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/Liberica_Java_%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD.md)），根据你的电脑芯片架构进行下载；   
+>4. 分别打开各个安装包，并分别安装到第一步中所创建的三个文件夹中。**
 
 > ⚠注意：安装时会选择路径，请一定要放在一个合适的地方长期存储。且由于安装了三个版本，一定要提前分好文件夹以分开存放  
 ![](./Minecraft%20国际版下载教程/java分文件夹安放.png)  
@@ -75,20 +74,20 @@ HMCL 启动器官网：[https://hmcl.huangyuhui.net/download/](https://hmcl.huan
 ### Minecraft 的游戏文件
 官方启动器的游戏文件位于C盘，但是社区启动器（包括 HMCL 和 PCL2）可以通过启动器内设置来选择启动器程序本体所在的位置存储游戏相关的文件（例如游戏本体、模组、存档、材质等）。因此，可以选择一个方便管理的文件夹放入启动器，这样这个文件夹内就包含了 Minecraft 的所有游戏文件了，这也正是我们最推荐的游戏文件管理方法
 ### 🔆推荐流程
-#### PCL2 流程（Windows 用户优先选择）
-1. 在一个 **「非C盘的磁盘」** 下创建一个文件夹；
-2. 从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包；
-3. 将下载下来的压缩包内的启动器（Plain Craft Launcher）解压到到先前所选好的文件夹中即可。
+>#### PCL2 流程（Windows 用户优先选择）
+>**1. 在一个 **「非C盘的磁盘」** 下创建一个文件夹；
+>2. 从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包；
+>3. 将下载下来的压缩包内的启动器（Plain Craft Launcher）解压到到先前所选好的文件夹中即可。**
 
-#### HMCL 流程（苹果用户仅能选择该流程）
-1. 在 **「个人文件夹」** 中创建一个文件夹；
-2. 下载HMCL；
-> Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe) 进行下载
-> 苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar) 进行下载
-3. 将 HMCL 启动器复制到第一步中所创建的文件夹中。
+>#### HMCL 流程（苹果用户仅能选择该流程）
+>**1. 在 **「个人文件夹」** 中创建一个文件夹；
+>2. 下载HMCL:  
+> Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe) 进行下载  
+> 苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar) 进行下载；
+>3. 将 HMCL 启动器复制到第一步中所创建的文件夹中。**
 
 > ⚠注意：PCL2 从爱发电下载下来之后会是一个压缩包，解压后才是启动器的程序本体了  
-⚠注意：苹果用户只能使用 HMCL！
+⚠注意：苹果用户只能使用 HMCL！  
 ![](./Minecraft%20国际版下载教程/选好游戏目录.png)
 
 ## 三、初次使用启动器的工作：设置账户、开启版本隔离、建立游戏目录
@@ -110,9 +109,11 @@ Minecraft 与其他游戏不同，他的模组加载器是由社区制作的，�
 
 
 ### 🔆推荐流程
-- **双击「Plain Craft Launcher.exe」启动 PCL2 启动器，点击头像上方的「离线」，并设置你喜欢的游戏昵称（仅限英文和下划线）**  
-- **再点击最上方导航栏中的「设置」，在「启动选项」中找到「版本隔离」并切换到 「隔离所有版本」**  
-- **最后在「版本选择」中点击「新建 .minecraft 文件夹」**
+>- **双击「Plain Craft Launcher.exe」启动 PCL2 启动器，点击头像上方的「离线」，并设置你喜欢的游戏昵称（仅限英文和下划线）**  
+>- **再点击最上方导航栏中的「设置」，在「启动选项」中找到「版本隔离」并切换到 「隔离所有版本」**  
+> - **最后在「版本选择」中点击「新建 .minecraft 文件夹」**  
+
+> ⚠注意：该步骤 PCL2 和 HMCL 类似，苹果用户使用 HMCL 进行类似操作即可  
 ![](./Minecraft%20国际版下载教程/登录.png)
 ![](./Minecraft%20国际版下载教程/启动器设置.png)
 ![](./Minecraft%20国际版下载教程/建立游戏目录.png)
@@ -135,7 +136,8 @@ Minecraft 的模组加载器在安装在游戏版本上之后可以进行移除�
 - 主版本：Minecraft 有许多特殊的版本号，这些版本可能因为游戏原版的更新在此停滞的时间较长等而积累相当多的社区内容（影响最大的便是模组和地图），这些版本被称之为主版本。目前的主版本有 1.7.10、1.12.2、1.18.2、1.19.2 。其中，1.12.2 以下 和 1.13 以上的版本 分别代表着模组社区的两个阶段，这两个版本  -->
 
 ### 🔆推荐流程
-**通过导航栏进入下载界面，选择自动安装，点击选择最新的正式版（本文撰写时为 1.20.1），命名版本名并选择最新的 Fabric，最后点击开始安装进行安装，等待下载安装完成**  
+>**通过导航栏进入下载界面，选择自动安装，点击选择最新的正式版（本文撰写时为 1.20.1），命名版本名并选择最新的 Fabric，最后点击开始安装进行安装，等待下载安装完成**  
+> ⚠注意：该步骤 PCL2 和 HMCL 类似，苹果用户使用 HMCL 进行类似操作即可  
 > ⚠注意：Minecraft 与其他游戏不一样，大多数情况下 Minecraft 几乎不玩测试版，测试版也几乎没有模组等社区内容，对于不懂的玩家则直接选择正式版即可
 ![](./Minecraft%20国际版下载教程/游戏下载1.png)  
 ![](./Minecraft%20国际版下载教程/游戏下载2.png)
