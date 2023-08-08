@@ -68,8 +68,8 @@ Minecraft 是一个十分特殊的游戏，它强依赖于社区，光影、地�
 PCL2 仅支持 Windows，HMCL 支持 Windows 和 苹果MacOS，因此****苹果用户请选择 HMCL**  
 HMCL 官网下载地址使用的是城通网盘，该网盘下载速度慢且需要登录，因此推荐使用第三方加速服务器从官方 github 仓库下载，下文的推荐流程中有详细介绍
 
-PCL2 启动器官网：https://afdian.net/p/0164034c016c11ebafcb52540025c377  
-HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
+PCL2 启动器官网：[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377 )  
+HMCL 启动器官网：[https://hmcl.huangyuhui.net/download/](https://hmcl.huangyuhui.net/download/)
 ### Minecraft 的游戏文件
 官方启动器的游戏文件位于C盘，但是社区启动器（包括 HMCL 和 PCL2）可以通过启动器内设置来选择启动器程序本体所在的位置存储游戏相关的文件（例如游戏本体、模组、存档、材质等）。因此，可以选择一个方便管理的文件夹放入启动器，这样这个文件夹内就包含了 Minecraft 的所有游戏文件了，这也正是我们最推荐的游戏文件管理方法
 ### 🔆推荐流程
@@ -80,7 +80,9 @@ HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
 
 >**HMCL 流程（苹果用户仅能选择该流程）**
 > **1、WAIT WHAT**  
-> **2、下载HMCL。Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe)下载，苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar)**  
+> **2、下载HMCL。  
+Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe) 进行下载  
+苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar) 进行下载**  
 > **3、将 HMCL 启动器复制到第一步中所创建的文件夹中**  
 
 > ⚠注意：PCL2 从爱发电下载下来之后会是一个压缩包，解压后才是启动器的程序本体了  
