@@ -20,7 +20,9 @@ Minecraft Java 版仅能在电脑（Windows 或 苹果 MacOS）上游玩，本�
 ### 为什么需要 Java
 Minecraft 是一个使用 Java 语言编写的程序，只有电脑安装了 Java 语言的环境才可以运行游戏。
 
-Java 不止有一个发行版本，因为他是开源的。有众多厂商基于开源的 OpenJDK 进行客制化，就像同样开源的安卓系统一样，在不同的安卓手机上有不同系统（MIUI、ColorOS 等）和不同安卓版本（11、13 等），而 Java 便也拥有了不同的发行版（甲骨文、Liberica、龙井等）和不同的版本号（Java 8/Java 11/Java 17等），每个发行版各有各的优势，而版本号则会影响能够游玩的 Minecraft 版本。因此，玩家需要先了解各个 Java 的不同再根据需求进行手动下载
+Java 不止有一个发行版本，因为他是开源的。有众多厂商基于开源的 OpenJDK 进行客制化，就像同样开源的安卓系统一样，在不同的安卓手机上有不同系统（MIUI、ColorOS 等）和不同安卓版本（11、13 等），而 Java 便也拥有了不同的发行版（甲骨文、Liberica、龙井等）和不同的版本号（Java 8/Java 11/Java 17等）。
+
+每个发行版各有各的优势，而版本号则会影响能够游玩的 Minecraft 版本。因此，Minecraft 不像其他游戏下载前置运行环境那么直接，需要多一些操作，但是也并不复杂，下文中会详细介绍
 
 ### 安装 Java 是在安装什么
 Java 的环境分为两种：JDK（Java Development Kit） 和 JRE（Java Runtime Enviroment）。 
@@ -48,22 +50,35 @@ JRE 的各个发行版都会提供安装包（.msi 格式文件）或仅提供�
 
 > ⚠注意：安装时会选择路径，请一定要放在一个合适的地方长期存储。且由于安装了三个版本，一定要提前分好文件夹以分开存放  
 ![](./Minecraft%20国际版下载教程/java分文件夹安放.png)  
-![](./Minecraft%20国际版下载教程/Liberica下载.png)
+![](./Minecraft%20国际版下载教程/加速下载.png)
 
 
 
 ## 二、选择一个启动器下载并放在合适的地方
 ### Minecraft 启动器是什么
 Minecraft 是一个十分特殊的游戏，它强依赖于社区，光影、地图、资源包、模组甚至模组加载器都是社区制作的。官方启动器并没有对这些社区内容进行支持，因此社区制作了自己的启动器（本文简称为社区启动器）来支援社区内容，并提供更多更便捷的功能。
-十多年来，有数十个社区启动器诞生，目前市面上也有许多主流社区启动器可以选择。本文仅推荐 Hello Minecraft Launcher（简称 HMCL） 和 Plain Craft Launcher 2（简称 PCL2） 启动器。两个启动器皆能满足基本需求，也是目前国内最主流的启动器。由于两个启动器功能相近，本篇教程将仅讨论 PCL2 启动器（HMCL 和其他启动器也类似）
+十多年来，有数十个社区启动器诞生，目前市面上也有许多主流社区启动器可以选择。本文仅推荐 Hello Minecraft Launcher（简称 HMCL） 和 Plain Craft Launcher 2（简称 PCL2） 启动器。两个启动器皆能满足基本需求，也是目前国内最主流的启动器。由于两个启动器功能相近，本篇教程将仅讨论 PCL2 启动器（HMCL 和其他启动器也类似）  
+
+PCL2 仅支持 Windows，HMCL 支持 Windows 和 苹果MacOS，因此****苹果用户请选择 HMCL**  
+HMCL 官网下载地址使用的是城通网盘，该网盘下载速度慢且需要登录，因此推荐使用第三方加速服务器从官方 github 仓库下载，下文的推荐流程中有详细介绍
 
 PCL2 启动器官网：https://afdian.net/p/0164034c016c11ebafcb52540025c377  
 HMCL 启动器官网：https://hmcl.huangyuhui.net/download/
 ### Minecraft 的游戏文件
 官方启动器的游戏文件位于C盘，但是社区启动器（包括 HMCL 和 PCL2）可以通过启动器内设置来选择启动器程序本体所在的位置存储游戏相关的文件（例如游戏本体、模组、存档、材质等）。因此，可以选择一个方便管理的文件夹放入启动器，这样这个文件夹内就包含了 Minecraft 的所有游戏文件了，这也正是我们最推荐的游戏文件管理方法
 ### 🔆推荐流程
-> **首先要先选好安装 Minecraft 的位置，最好不要放在 C盘，且安装的文件夹内最好不要有其他文件。创建好文件夹后，从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包，并将其解压到先前所选好的文件夹中即可**  
-⚠注意：PCL2 从爱发电下载下来之后会是一个压缩包，解压后才是启动器的程序本体了
+> **PCL2 流程（Windows 用户优先选择）**  
+> **1、在一个非C盘的磁盘下创建一个文件夹**  
+**2、从 PCL2 的爱发电界面（[https://afdian.net/p/0164034c016c11ebafcb52540025c377](https://afdian.net/p/0164034c016c11ebafcb52540025c377)) 下载PCL2启动器的压缩包。**  
+**3、将下载下来的压缩包内的启动器（Plain Craft Launcher）解压到到先前所选好的文件夹中即可**  
+
+>**HMCL 流程（苹果用户仅能选择该流程）**
+> **1、WAIT WHAT**  
+> **2、下载HMCL。Windows 用户使用[https://ghproxy/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.exe)下载，苹果MacOS 用户使用[https://ghproxy.com/github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar](https://github.com/huanghongxun/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar)**  
+> **3、将 HMCL 启动器复制到第一步中所创建的文件夹中**  
+
+> ⚠注意：PCL2 从爱发电下载下来之后会是一个压缩包，解压后才是启动器的程序本体了  
+⚠注意：苹果用户只能使用 HMCL！
 ![](./Minecraft%20国际版下载教程/选好游戏目录.png)
 
 ## 三、初次使用启动器的工作：设置账户、开启版本隔离、建立游戏目录
