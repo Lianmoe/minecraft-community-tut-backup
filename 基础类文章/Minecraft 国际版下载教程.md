@@ -13,7 +13,8 @@ Minecraft 我的世界（中文社区大多直接使用英文称呼，本文也�
 
 ## 〇、什么是国际版、Java 版
 *(各版本区别尚未进行详细编写)*  
-Minecraft 分为国际版和中国版，而国际版又分为 Java 版和基岩版。实际上，在绝大多数地方所提到的皆是 Minecraft 国际 Java 版
+Minecraft 分为国际版和中国版，而国际版又分为 Java 版和基岩版。实际上，在绝大多数地方所提到的皆是 Minecraft 国际 Java 版  
+Minecraft Java 版仅能在电脑（Windows 或 苹果 MacOS）上游玩，本文也需在电脑上进行操作
 
 ## 一、安装 Java
 ### 为什么需要 Java
@@ -25,23 +26,27 @@ Java 不止有一个发行版本，因为他是开源的。有众多厂商基于
 Java 的环境分为两种：JDK（Java Development Kit） 和 JRE（Java Runtime Enviroment）。 
 
 其中，JRE 是用于运行 Java 程序的，一般为用户、玩家安装。JDK 是用于软件开发的，JDK 内也包含了 JRE，体量比较大，一般只为开发者安装。  
-但是，Minecraft 的部分模组、插件等需要用到 JDK 内的东西，所以游玩 Minecraft 时，直接选择 JDK 即可（下文将仅讨论 JDK，JRE 大多步骤也与其相同）。
+因此对于玩家来说，使用 JRE 即可满足需求，部分教程也会让下载 JDK，而 JDK 占用空间过大，本文就不推荐了
 
-JDK 的各个发行版都会提供安装包（.msi 格式文件）或仅提供压缩包（.zip 格式文件），两者的差别只在于，安装包在将 JDK 解压在某个文件夹后，会自动配置 Java 路径的系统变量（用于在启动 Java 程序时告诉 Java 程序你的 JDK 解压在哪里，不过 Minecraft 的社区启动器会自动检测 Java，所以可以忽略）。运行安装程序或者解压压缩包便完成了 JDK 的安装，也就是 Java 的安装。 
+JRE 的各个发行版都会提供安装包（.msi 格式文件）或仅提供压缩包（.zip 格式文件），两者的差别只在于，安装包在将 JDK 解压在某个文件夹后，会自动配置 Java 路径的系统变量（用于在启动 Java 程序时告诉 Java 程序你的 JRE 解压在哪里，不过 Minecraft 的社区启动器会自动检测 Java，所以可以忽略）。运行安装程序或者解压压缩包便完成了 JRE 的安装，也就是 Java 的安装。 
 
 ### Java 不同版本号、不同发行版的差别
 
-- Java 的版本号： 不同 Minecraft 版本所需要的 Java 版本不同。每一个 Minecraft 版本都有最低的 Java 版本要求，虽然越新的 Java 版本的性能会更好，但是也可能导致兼容问题。经过权衡，我们推荐：1.7.10 及以下使用 Java7，1.8 ~ 1.16.5 使用 Java8，1.17 ~ 1.20.1 使用 Java17。
-- Java 的发行版：各个发行版主要是功能和性能上的区别 (各发行版差别尚未编写)*，根据 Minecraft 的实际需求，本文推荐使用 LibericaJDK 的 Full Version，且下文将使用 LibericaJDK Full Version 进行讨论
+- Java 的版本号： 不同 Minecraft 版本所需要的 Java 版本不同。每一个 Minecraft 版本都有最低的 Java 版本要求，但越新的 Java 版本的性能和稳定性往往会更好，不过版本过高也可能导致兼容问题。经过权衡，我们推荐：1.0 ~ 1.16.5 使用 Java8，1.17 ~ 1.20.1 使用 Java17。部分版本，例如 1.16.5 可以使用 Java11 以获取更好的性能。部分模组或整合包也会强制要求更高的 Java 版本。
+    - 因此我们推荐将 Java8、Java11、Java17 都安装上，由启动器自动选择
+- Java 的发行版：各个发行版主要是功能和性能上的区别 *(各发行版差别尚未编写)*。
+    - 根据 Minecraft 的实际需求，本文推荐使用 LibericaJRE 的 Full Version，且下文将使用 LibericaJRE Full Version 进行讨论
 
 <!-- 旧描述，有错误，描述混乱 -->
 <!-- Java 有不同发行版，总的来说分为 OracleJDK 和 OpenJDK 两个类。 这里不知道怎么描述好了，包括OpenJDK和Oracle的区别以及JDK是什么 。OpenJDK 主要优势在于 免费、性能好，然而在选择 OpenJDK 时，大多数 OpenJDK 并不包含 JavaFX 这一个组件，其是一个较为过时的用于绘制用户界面的组件 不确定组件这个称呼合不合适 ，但仍有一部分应用在使用（例如 HMCL 启动器），因此我们推荐使用 LibericaJDK 的 Full version（带 JavaFX） -->
 
 
 ### 🔆推荐流程
-> **先准备好一个文件夹，且在该文件夹下从 LibericaJDK 官网（https://bell-sw.com/pages/downloads/）分别下载 Full Version 的 JDK7、JDK8、JDK11、JDK17 的安装包，，双击安装包进行安装，安装选择路径的时候选择先前准备好的文件夹**
+> **1、在一个非C盘的磁盘下创建一个文件夹，并在内创建三个文件夹，分别命名为 Liberica8、Liberica11 和 Liberica17**  
+**2、进入 Liberica Java 加速下载页（[]()），根据你的操作系统进行下载**  
+**3、分别打开各个安装包，并分别安装到第一步中所创建的三个文件夹中**
 
-> ⚠注意：安装时会选择路径，请一定要放在一个合适的地方长期存储。且由于安装了四个版本，建议提前分好文件夹以分开存放  
+> ⚠注意：安装时会选择路径，请一定要放在一个合适的地方长期存储。且由于安装了三个版本，一定要提前分好文件夹以分开存放  
 ![](./Minecraft%20国际版下载教程/java分文件夹安放.png)  
 ![](./Minecraft%20国际版下载教程/Liberica下载.png)
 
