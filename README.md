@@ -1,5 +1,5 @@
 # Minecraft 社区教程
-[![star](https://gitee.com/community-tut/minecraft-community-tut/badge/star.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/stargazers)[![fork](https://gitee.com/community-tut/minecraft-community-tut/badge/fork.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
+[![star](https://gitee.com/community-tut/minecraft-community-tut/badge/star.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/stargazers)[![fork](https://gitee.com/community-tut/minecraft-community-tut/badge/fork.svg?theme=dark)](https://gitee.com/community-tut/minecraft-community-tut/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://gitee.com/community-tut/minecraft-community-tut/pulls)
 
 由社区共建并维护的开放共享的、开放贡献的 Minecraft 教程系列项目
 
